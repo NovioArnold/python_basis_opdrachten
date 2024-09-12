@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student:Arnold Hilberink
+# Groep: ?
 
 # Hier komt je code...
 

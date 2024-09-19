@@ -1,0 +1,5 @@
+1,Jan Janssen,3
+5,Gert Gertsen,2
+3,Klaas Klaassen,1
+2,Piet Pietersen,1
+4,Henk Henksen,0

@@ -1,0 +1,15 @@
+.
+├── crieer_kandidaten.py
+├── kandidaten.py
+├── kandidaten.txt
+├── main.py
+├── protocols.py
+├── __pycache__
+│   ├── kandidaten.cpython-310.pyc
+│   └── protocols.cpython-310.pyc
+├── readme.md
+├── stembus.md
+├── test_kandidaten.py
+└── tree.txt
+
+1 directory, 11 files
